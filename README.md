@@ -1,3 +1,1 @@
-# go-hateoas
-A lightweight golang hateoas framework
-<br />(not stable - currently under development)
+Starting from [go-hateoas](https://github.com/leoride/go-hateoas), building a discovery framework based on struct-tags.
